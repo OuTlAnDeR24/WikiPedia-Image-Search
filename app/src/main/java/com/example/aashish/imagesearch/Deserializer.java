@@ -3,14 +3,12 @@ package com.example.aashish.imagesearch;
 import com.example.aashish.imagesearch.models.ApiResult;
 import com.example.aashish.imagesearch.models.Page;
 import com.example.aashish.imagesearch.models.Thumbnail;
-import com.google.gson.JsonArray;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
 
-import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
